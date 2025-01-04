@@ -26,7 +26,7 @@ Correlation Analysis:
 Examine the relationship between COVID-19 metrics and stock market performance.
 Identify periods where significant changes in COVID-19 data correspond with notable market movements.
 ## Visualization
-Utilize Tableau to create interactive dashboards that display:
+Utilize [Tableau] (https://public.tableau.com/app/profile/leo.huang2803/viz/TSXpriceandcovid/Dashboard1?publish=yes) to create interactive dashboards that display:
 
 * Trends in COVID-19 cases, deaths, and vaccination rates over time.
 * S&P/TSX Composite Index performance during the same periods.
